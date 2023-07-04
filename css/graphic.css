@@ -65,8 +65,8 @@
 }
 
 .video-link {
-  width: 35rem;
-  height: 30rem;
+  width: auto;
+  height: 50rem;
   overflow: hidden;
   display: flex;
 }
