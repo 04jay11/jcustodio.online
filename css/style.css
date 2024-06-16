@@ -93,13 +93,6 @@ Start Header styles
   text-transform: uppercase;
 }
 
-.site-description {
-  text-align: center;
-  color: #f6d200;
-  font-size: 1.2em;
-  margin-top: -0.8em;
-}
-
 .main-menu {
   color: black;
   background: #f6d200;
@@ -451,6 +444,10 @@ start Section sidebar styles
   color: black;
   text-decoration: none;
   font-weight: bold;
+}
+
+.site-footer {
+  font-size: 1.5rem;
 }
 
 @media screen and (min-width: 810px) and (max-width: 1120px) {
