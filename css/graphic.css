@@ -35,7 +35,6 @@
 }
 
 #container {
-  /* max-width: 100rem; */
   margin: auto;
   padding: 3rem;
 
@@ -65,8 +64,13 @@
 }
 
 .video-link {
-  width: 30rem;
+  width: 29rem;
   height: 50rem;
   overflow: hidden;
+  border: 2px solid yellow;
   display: flex;
+}
+
+.video-link video {
+  width: 100%;
 }
